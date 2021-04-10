@@ -1,0 +1,4 @@
+I work with Orange pi (clone of Raspberry pi)
+ARMbian, 512 MB RAM, for python bot
+You can't scare me. Except restrict my googlability
+
