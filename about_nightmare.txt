@@ -1,4 +1,10 @@
+All except text editors I did in command line,
+so I think a few work with vim on this file
+will be anough
+
 I work with Orange pi (clone of Raspberry pi)
 ARMbian, 512 MB RAM, for python bot
 You can't scare me. Except restrict my googlability
 
+sorry, I have to google how to select and Ctrl+C -> Ctrl+V in vim
+So you can think I failed task
